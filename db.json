@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": "3322",
+      "firstName": "babe",
+      "lastName": "krish",
+      "email": "bab@gail.com",
+      "phone": "1341123543",
+      "dob": "2026-02-05"
+    },
+    {
+      "id": "563d",
+      "firstName": "karthi",
+      "lastName": "fly",
+      "email": "manager@company.com",
+      "phone": "2432424343",
+      "dob": "2026-02-05"
+    },
+    {
+      "id": "2470",
+      "firstName": "karthi",
+      "lastName": "krish",
+      "email": "your@gmail.com",
+      "phone": "2432424343",
+      "dob": "2026-02-05",
+      "address": "32, sdfasds"
+    }
+  ]
+}
