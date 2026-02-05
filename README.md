@@ -15,7 +15,7 @@
 👉 **https://mugunthanm2k.github.io/User-Management-app**
 
 ## 🔗 Repo 
-👉 *https://github.com/mugunthanm2k/User-Management-app.git*
+👉 **https://github.com/mugunthanm2k/User-Management-app.git**
 ---
 
 ## ✨ Overview
